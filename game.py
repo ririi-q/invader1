@@ -6,6 +6,7 @@ import math
 # Pygameの初期化
 pygame.init()
 
+
 # スクリーンのサイズ設定
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
